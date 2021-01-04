@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="numer0">0</string>
+    <string name="numer1">1</string>
+    <string name="numer2">2</string>
+    <string name="numer3">3</string>
+    <string name="numer4">4</string>
+    <string name="numer5">5</string>
+    <string name="numer6">6</string>
+    <string name="numer7">7</string>
+    <string name="numer8">8</string>
+    <string name="numer9">9</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="razy">*</string>
+    <string name="podzielic">/</string>
+    <string name="rownasie">=</string>
+    <string name="procent">%</string>
+    <string name="plusminus">+/-</string>
+    <string name="przecinek">.</string>
+    <string name="clear">C</string>
+</resources>
