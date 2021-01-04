@@ -157,8 +157,8 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
                 if(New.isEmpty()){
-                    New = Old;
-                    editText.setText(New+"");
+                    equals = Double.parseDouble(Old);
+                    editText.setText(equals+"");
                 }
         }
 
@@ -176,7 +176,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickMakePercent(View view) {
         double makePercent = Double.parseDouble(editText.getText().toString())/100;
-        editText.setText(makePercent+"%");
+        editText.setText(makePercent+"");
     }
 }
 
